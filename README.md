@@ -31,4 +31,4 @@
     </a>
 </div>
   
-![Snake animation](https://github.com/FioriBOSS/Henrique-Fiori/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/FioriBOSS/FioriBOSS/blob/output/github-contribution-grid-snake.svg)
